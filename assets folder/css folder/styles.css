@@ -167,3 +167,12 @@ button {
     }
 
 }
+
+@media screen and (max-width: 768px) {
+    .activity-display-container li{
+        width: 200px;
+        height: 300px;
+        padding: 10px;
+    }
+
+}
